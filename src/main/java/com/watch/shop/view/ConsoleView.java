@@ -1,4 +1,4 @@
-package com.watchshop.view;
+package com.watch.shop.view;
 
 public class ConsoleView {
 }
